@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Customer";
+}
+
+<h2>Customer</h2>
+@Html.Partial("_PartialView")
+
+
+@Html.Partial("_LoginForm")
+<br />
+<br />
+@{
+    Html.RenderPartial("_LoginForm");
+}

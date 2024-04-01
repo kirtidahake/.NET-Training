@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<p>This is view page</p>
+@*@Html.Partial("_PartialView")
+
+<br />
+<br />
+
+@{
+
+    Html.RenderPartial("_PartialView");
+}
+
+@Html.Partial("_LoginForm")
+<br />
+<br />
+@{
+    Html.RenderPartial("_LoginForm");
+}*@
+

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\views\\shared\\error2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\views\\shared\\error2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|c:\\users\\trellis\\source\\repos\\exceptionfiltermvc\\exceptionfiltermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEF2C4A-3C4A-4108-8381-445E49A94474}|ExceptionFilterMVC\\ExceptionFilterMVC.csproj|solutionrelative:exceptionfiltermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "ExceptionFilterMVC\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:55:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExceptionFilterMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:26:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Global.asax.cs",
+              "RelativeToolTip": "ExceptionFilterMVC\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:23:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExceptionFilterMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T05:06:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Web.config",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Web.config",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Web.config",
+              "RelativeToolTip": "ExceptionFilterMVC\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T06:20:05.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ExceptionFilterMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T09:30:40.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error2.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Shared\\Error2.cshtml",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Views\\Shared\\Error2.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Shared\\Error2.cshtml",
+              "RelativeToolTip": "ExceptionFilterMVC\\Views\\Shared\\Error2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T09:39:22.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ExceptionFilterMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T06:16:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ExceptionFilterMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T06:27:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExceptionFilterMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\ExceptionFilterMVC\\ExceptionFilterMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExceptionFilterMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T05:08:46.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

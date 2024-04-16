@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trellis\\source\\repos\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F088BF-B3F7-4622-8B07-68842D6D07AF}|..\\Dictionary\\Dictionary.csproj|c:\\users\\trellis\\source\\repos\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECCE196-9B29-4E09-AB57-09C09AB383D6}|..\\SortedList\\SortedList.csproj|c:\\users\\trellis\\source\\repos\\sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF075D-08DE-4EB4-9F2D-F7B1D010AD7C}|..\\Queue\\Queue.csproj|c:\\users\\trellis\\source\\repos\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE3DE43-6C3E-499E-9784-29D10E6353DF}|..\\Stack\\Stack.csproj|c:\\users\\trellis\\source\\repos\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639D4653-6932-4D83-BA1F-4FD27DB6056B}|..\\List\\List.csproj|c:\\users\\trellis\\source\\repos\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639D4653-6932-4D83-BA1F-4FD27DB6056B}|..\\List\\List.csproj|c:\\users\\trellis\\source\\repos\\list\\list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425FECE6-3064-4593-B30D-2E8D7FAC5232}|Collections.csproj|c:\\users\\trellis\\source\\repos\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425FECE6-3064-4593-B30D-2E8D7FAC5232}|Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\Queue\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\Queue\\Program.cs",
+              "RelativeToolTip": "..\\Queue\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:34:37.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\Stack\\Program.cs",
+              "RelativeToolTip": "..\\Stack\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA2wB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:39:13.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SortedList\\Program.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\SortedList\\Program.cs",
+              "RelativeToolTip": "..\\SortedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:30:16.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\Dictionary\\Program.cs",
+              "RelativeToolTip": "..\\Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:22:53.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.csproj",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\List\\List.csproj",
+              "RelativeDocumentMoniker": "..\\List\\List.csproj",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\List\\List.csproj",
+              "RelativeToolTip": "..\\List\\List.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T06:15:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\List\\Program.cs",
+              "RelativeDocumentMoniker": "..\\List\\Program.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\List\\Program.cs",
+              "RelativeToolTip": "..\\List\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:10:25.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trellis\\source\\repos\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trellis\\source\\repos\\Collections\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:09:51.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

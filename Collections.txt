@@ -1,0 +1,283 @@
+COLLECTION - Classes for data storage and retrieval are called collection classes.
+
+In addition to stacks and lisis, these classes also provide functionality for hash tables.
+
+Collections of objects of the type Object are generated bua number of classes in C#.
+
+Types of collections - Generic and Non-Generic
+
+Generic collections - 
+
+A generic collection is strongly typed (you can store one type of objects into it) so that we can eliminate runtime 
+type mismatches, it improves the performance by avoiding boxing and unboxing
+
+A Generic collection provides the type safety without derivation from a basic collection type and the implementation 
+of type-specific members. The Generic Collection classes are found in the namespace "System. Collections. 
+Generics." Internally, Generic Collections store elements in arrays of their respective types.
+
+ex: List, Dictionary, Sorted List, Stack, Queue
+
+List ----------------------------------------
+
+List is a data structure that represents a list of objects that can be accessed by index.
+Similar to array, but can dyanmically increase/decrease in size.
+using System.Collections.Generic;
+
+
+
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Creating a list
+        List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+
+        // Adding elements
+        numbers.Add(6);
+        numbers.Add(7);
+
+        // Accessing elements
+        Console.WriteLine("First element: " + numbers[0]);  // Prints: 1
+        Console.WriteLine("Last element: " + numbers[numbers.Count - 1]);  // Prints: 7
+
+        // Iterating over elements
+        Console.WriteLine("All elements:");
+        foreach (int num in numbers)
+        {
+            Console.WriteLine(num);
+        }
+    }
+}
+
+
+Dictionary------------------------------------
+
+In C#, a dictionary is a collection type that stores key-value pairs where each key must be unique within the collection. It allows you to quickly retrieve a value associated with a particular key. The Dictionary<TKey, TValue> class 
+in the .NET Framework provides an implementation of a dictionary.
+
+Here's a brief overview and example usage of dictionaries in C#:
+
+Overview:
+Key-Value Pairs: A dictionary consists of key-value pairs, where each key maps to exactly one value.
+
+Fast Lookup: Dictionaries provide fast lookup operations based on keys, typically with constant time complexity O(1).
+
+Unique Keys: Each key in a dictionary must be unique. Attempting to add a key that already exists will replace the existing value.
+
+Ordering: The order of items in a dictionary is not guaranteed. Elements are stored internally in a manner optimized for fast lookups.
+
+Example Usage:
+
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Creating a dictionary
+        Dictionary<string, int> ageDictionary = new Dictionary<string, int>();
+
+        // Adding key-value pairs
+        ageDictionary["Alice"] = 30;
+        ageDictionary["Bob"] = 25;
+        ageDictionary["Charlie"] = 35;
+
+        // Accessing values by key
+        Console.WriteLine("Age of Alice: " + ageDictionary["Alice"]);  // Output: Age of Alice: 30
+
+        // Iterating over key-value pairs
+        Console.WriteLine("All ages:");
+        foreach (var kvp in ageDictionary)
+        {
+            Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+        }
+    }
+}
+In this example:
+
+We create a dictionary ageDictionary where keys are strings (names) and values are integers (ages).
+We add key-value pairs to the dictionary using the [key] = value syntax.
+We access values by their corresponding keys using the [] indexer.
+We iterate over all key-value pairs in the dictionary using a foreach loop, accessing each pair as KeyValuePair<TKey, TValue>.
+Dictionaries are commonly used in C# for tasks such as caching, lookup tables, and maintaining associations between related data. 
+They provide efficient access to values based on their keys, making them suitable for scenarios where fast retrieval by key is essential.
+
+
+
+
+
+
+
+
+---------------------------SORTED LIST--------------------------------
+
+The SortedList class represents a collection of key-and-value pairs that are sorted by the keys and are accessible 
+by key and by  index.
+
+A sorted list is a combination of an array and a hash table. It contains a list of items that can be accessed using a key
+or an index. If you access items using an index, it is an ArrayList, and if you access items using a key, it is a Hashtable.
+The collection of items is always sorted by the key value.  
+
+
+In C#, the SortedList<TKey, TValue> class is a specific implementation of a sorted list provided by the .NET 
+Framework. It maintains a collection of key/value pairs sorted by the keys. It internally uses a binary search 
+tree data structure to efficiently store and retrieve elements.
+
+Sorted lists are particularly useful in scenarios where elements need to be quickly located or retrieved in a sorted manner. 
+They are commonly employed in applications such as search engines, database 
+systems, and various algorithms where maintaining sorted data is essential for efficient processing.
+
+A sorted list, in the context of data structures, refers to a collection where elements are maintained in a sorted order 
+according to a defined criterion, typically based on the values of the elements 
+or some associated keys. This sorted order enables efficient searching, insertion, and deletion operations.
+
+using System;
+using System.Collections;
+
+class Program
+{
+    static void Main()
+    {
+        // Creating a sorted list
+        SortedList<int, string> sortedList = new SortedList<int, string>();
+
+        // Adding elements
+        sortedList.Add(3, "Three");
+        sortedList.Add(1, "One");
+        sortedList.Add(2, "Two");
+
+        // Accessing elements by key
+        Console.WriteLine("Value at key 2: " + sortedList[2]);  // Prints: Two
+
+        // Iterating over key-value pairs
+        Console.WriteLine("All elements:");
+        foreach (KeyValuePair<int, string> kvp in sortedList)
+        {
+            Console.WriteLine(kvp.Key + ": " + kvp.Value);
+        }
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------
+
+NON GENERIC COLLECTIONS -
+ArrayList, HashTable, SortedList, Stack, Queue
+
+All non-generic collection classes have these features.
+
+1. They can store homogeneous elements as well as heterogenous elements.
+
+2. They are not type safe.
+
+3. It can automatically resize dynamically (Auto Resizing).
+
+
+
+----------------------STACK----------------------------
+
+
+
+
+Stack means pile of objects.
+
+LIFO (Last In First Out)
+
+Push - To insert data
+Pop - To delete data
+Peek - To retreive values
+
+C# has generic and non-generic stack
+
+Stack allows null values and also duplicate values.
+
+A stack is used to ceate a dynamic collection which grows, according to the need of your program.
+
+The capacity of a stack is the number of elements tha stack can hold.
+As elements are added to a stack, the capacity is automatically increased as required through reallocation.
+
+In a stack, you can store elements of the same type or different types.
+
+The stack class implements the IEnumerable , ICollection and ICloneable iinterfaces.
+
+When you add an item in the list, it is called pushing the element.
+
+When you remove it, it is called popping the element.
+
+Important methos and properties :-
+
+Count - Returns the total count of elements in the stack
+
+Push - Inserts an item at the top os the stack.
+
+Peek - Returns the top item from the stack.
+
+Pop - Removes and returns items from the top of the stack.
+
+Contains - Checks whether an item is present in the stack or not. 
+
+Clear - Removes all items in the stack
+
+
+
+
+
+
+-----------------------------QUEUE--------------------------------------------
+
+
+
+
+Queue - a line or sequence of people or vehicle
+
+FIFO - First In First Out
+
+C# includes a Queue coleection class in the System.Collection namespace.
+
+Queue stores the elements in FIFO style, exactly opposite of the Stack collection.
+
+It contains the elements in the order they were added.
+
+Queue collection allows multiple null and duplicate values.
+
+Enqueue() - to add values in the queue.
+
+Dequeue() - removes and  retrieve the values from the begining of the queue.
+
+Count - Returns the total count of elements in the queue.
+
+Peek - returns first item from the queue.
+
+Contains - Checks whether an item is present in the queue or not. 
+
+Clear - Removes all items in the queue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

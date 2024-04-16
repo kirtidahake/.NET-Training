@@ -1,0 +1,123 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+<!-----This only comments HTML code-------->
+@*This comments HTML and CS code*@
+
+
+
+
+
+@*
+
+    <!-----Inline Expression Statement:----->
+    <p>Today date and time is : @DateTime.Now</p>
+        <p>This year is  : @DateTime.Now.Year</p>
+
+*@
+
+
+
+
+
+
+
+@*
+    <!-----Multi statement code block:----->
+    <!-----Declaring Variables:----->
+
+        @{
+        string name = "Learning Never Ends";
+        var TodaysTime = DateTime.Now.ToLongTimeString();
+        var a = DateTime.Now.ToString();
+        }
+
+        <h>@name</h>
+        @TodaysTime
+        @a
+
+*@
+
+
+
+
+
+
+
+<!-----Conditional statements:----->
+@*
+    @{
+
+        int marks = 80;
+        if (marks >= 80)
+        {
+            Console.WriteLine("Your grade is A-1");
+        }
+        else
+        {
+            Console.WriteLine("Your grade is A");
+        }
+    }
+*@
+
+
+
+
+
+
+<!-----Switch statements:----->
+@*
+    @{
+    var fruitName = "banana";
+    var result = "Invalid";
+
+    switch (fruitName)
+    {
+        case "apple":
+            result = "This is apple";
+            break;
+
+        case "mango":
+            result = "This is mango";
+            break;
+
+        case "banana":
+            result = "This is banana";
+            break;
+
+        default:
+
+            break;
+
+    }
+
+    @result
+
+    }
+*@
+
+
+
+
+<!-----For loop:----->
+@*@{
+        for(int i=1; i<=10; i++)
+        {  <h3> @i</h3>  }
+
+    }*@
+
+
+
+<!-----Array:----->
+@{
+
+    string[] sports = { "FOOTBALL", "CRICKET", "HOCKEY", "BASEBALL" };
+
+    foreach (var i in sports)
+    {
+        <h3> @i</h3>
+    }
+
+}
